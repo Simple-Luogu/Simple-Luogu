@@ -15,6 +15,7 @@
   <a title="MIT License" target="_blank" href="https://github.com/Simple-Luogu/Simple-Luogu/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
   </a>
+  [![Page Views Count](https://badges.toozhao.com/badges/01H7Q5A0Q00Q2AKP9SCSX7XZ1M/blue.svg)](https://badges.toozhao.com/stats/01H7Q5A0Q00Q2AKP9SCSX7XZ1M "Get your own page views count badge on badges.toozhao.com")
 </p>
 
 <p align="center">
